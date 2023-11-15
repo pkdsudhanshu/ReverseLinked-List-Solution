@@ -12,7 +12,7 @@ Feel free to explore the solutions for each YouTuber or topic. If you have any q
 
 ## Weekly Web Development Updates
 
-In addition to SDE interview solutions, I also share my weekly web development progress and projects. Check out the [Web Development](WebDevelopment) folder for more details.
+In addition to SDE interview solutions, I also share my weekly web development progress and projects. Check out the [Web Development](https://github.com/pkdsudhanshu/Web-Development/tree/main/Web%20Development) folder for more details.
 
 ## License
 
