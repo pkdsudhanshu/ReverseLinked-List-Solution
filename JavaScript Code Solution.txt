@@ -1,0 +1,18 @@
+var reverseList = function(head) {
+    if (head === null || head.next === null) {
+        return head;
+    }
+
+    var prv = null;
+    var curr = head;
+    var nextNode = head.next;
+    while (curr.next !== null) {
+        curr.next = prv;
+        prv = curr;
+        curr = nextNode;
+        nextNode = curr.next;
+    }
+    curr.next = prv;
+
+    return curr;
+};
